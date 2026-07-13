@@ -1,2 +1,2 @@
 # Memory-Extraction-Chatbot
-Baseline and Conflict-aware chatbots using three memory storage/extraction methods: semantic similarity, machine learning, and LLM evaluation.
+A modular memory-augmented chatbot framework comparing semantic, supervised machine-learning, and LLM-based memory extraction under baseline and conflict-aware memory management architectures.
