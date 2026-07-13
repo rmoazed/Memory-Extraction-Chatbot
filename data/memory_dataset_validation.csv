@@ -1,0 +1,102 @@
+id,user_message,store_label,memory_category,importance_score,memory_text,rationale,source_file
+tc_082,I'm replacing my roof this month.,1,temporary_context,2,User is replacing their roof this month.,Temporary home project.,temporary1.csv
+dns_053,I had pizza for dinner.,0,do_not_store,1,,Single meal.,nostore1.csv
+cc_099,I can't share personal documents through email because of my firm's policy.,1,critical_constraint,5,User cannot share personal documents through email because of firm policy.,Security/compliance constraint affects workflow recommendations.,constraints1.csv
+dns_102,The sun finally came out.,0,do_not_store,1,,Temporary observation.,nostore2.csv
+tc_003,I'm working late tonight.,1,temporary_context,2,User is working late tonight.,Short-lived schedule.,temporary1.csv
+tc_123,I'm organizing my office before our move.,1,temporary_context,2,User is organizing the office before a move.,Temporary project.,temporary2.csv
+sp_173,I like staying active every day.,1,stable_preference_goal,4,User values daily physical activity.,Lifestyle.,preference2.csv
+rc_092,I always listen to an audiobook while cooking.,1,useful_recurring_context,3,User usually listens to audiobooks while cooking.,Recurring habit.,recurrent1.csv
+rc_183,I normally check package tracking every evening.,1,useful_recurring_context,3,User checks package tracking every evening.,Recurring habit.,recurrent2.csv
+rc_190,I always refill my pill organizer on Sundays.,1,useful_recurring_context,3,User refills pill organizer on Sundays.,Recurring medical routine.,recurrent2.csv
+rc_029,I usually listen to podcasts on my commute.,1,useful_recurring_context,3,User listens to podcasts during their commute.,Recurring habit.,recurrent1.csv
+rc_096,I usually visit my favorite coffee shop before work on Mondays.,1,useful_recurring_context,3,User visits their favorite coffee shop before work on Mondays.,Recurring routine.,recurrent1.csv
+dns_160,I needed directions.,0,do_not_store,1,,Immediate need.,nostore2.csv
+sp_117,I really like visiting botanical gardens.,1,stable_preference_goal,4,User enjoys botanical gardens.,Interest.,preference2.csv
+rc_063,I usually meet my mentor once a month.,1,useful_recurring_context,3,User meets their mentor monthly.,Recurring commitment.,recurrent1.csv
+dns_051,I'm feeling pretty good this afternoon.,0,do_not_store,1,,Temporary emotion.,nostore1.csv
+cc_078,"I have dyslexia, so concise formatting and clear structure really matter for me.",1,critical_constraint,5,User has dyslexia and benefits from concise formatting and clear structure.,Accessibility/communication constraint affects responses.,constraints1.csv
+sp_152,I like keeping fresh flowers in my home.,1,stable_preference_goal,4,User enjoys keeping fresh flowers.,Preference.,preference2.csv
+tc_161,I'm waiting for my tax refund.,1,temporary_context,2,User is waiting for a tax refund.,Temporary status.,temporary2.csv
+dns_015,The weather is perfect today.,0,do_not_store,1,,Temporary observation.,nostore1.csv
+dns_088,I just paid for parking.,0,do_not_store,1,,Completed action.,nostore1.csv
+dns_179,The flowers are blooming.,0,do_not_store,1,,Seasonal observation.,nostore2.csv
+sp_149,I'd like to get scuba certified.,1,stable_preference_goal,4,User's goal is scuba certification.,Goal.,preference2.csv
+cc_183,I need dairy-free medications if available.,1,critical_constraint,5,User prefers/needs dairy-free medications.,Medical.,constraints2.csv
+rc_154,I usually stop for coffee after my Saturday run.,1,useful_recurring_context,3,User usually gets coffee after Saturday runs.,Recurring routine.,recurrent2.csv
+sp_074,I'm saving for a trip to New Zealand.,1,stable_preference_goal,4,User's goal is to save for a trip to New Zealand.,Stable long-term goal or aspiration.,preference1.csv
+cc_068,I can't work nights because of my medication schedule.,1,critical_constraint,5,User cannot work nights because of their medication schedule.,Medical scheduling constraint affects job recommendations.,constraints1.csv
+rc_127,I typically review my flashcards every evening.,1,useful_recurring_context,3,User reviews flashcards every evening.,Recurring study habit.,recurrent2.csv
+tc_068,I'm taking a break from running while my ankle heals.,1,temporary_context,2,User is temporarily taking a break from running.,Temporary health context.,temporary1.csv
+sp_058,I'm trying to cook more meals at home.,1,stable_preference_goal,4,User's goal is to cook more at home.,Stable long-term goal or aspiration.,preference1.csv
+sp_195,I love visiting aquariums.,1,stable_preference_goal,4,User enjoys aquariums.,Interest.,preference2.csv
+sp_014,I almost never eat fast food.,1,stable_preference_goal,4,User avoids fast food.,Stable food or drink preference.,preference1.csv
+rc_145,I usually update my résumé every six months.,1,useful_recurring_context,3,User updates résumé every six months.,Recurring career task.,recurrent2.csv
+sp_201,I enjoy sketching buildings.,1,stable_preference_goal,4,User enjoys architectural sketching.,Hobby.,preference2.csv
+dns_072,This sandwich is amazing.,0,do_not_store,1,,Momentary opinion.,nostore1.csv
+sp_134,I hope to backpack across Europe.,1,stable_preference_goal,4,User's goal is to backpack across Europe.,Goal.,preference2.csv
+tc_160,I'm cleaning my basement after the flooding.,1,temporary_context,2,User is cleaning the basement after flooding.,Temporary project.,temporary2.csv
+dns_193,The table was sticky.,0,do_not_store,1,,Temporary observation.,nostore2.csv
+dns_171,The cookies are cooling.,0,do_not_store,1,,Current situation.,nostore2.csv
+cc_028,I can't be around cats because I'm extremely allergic.,1,critical_constraint,5,User is extremely allergic to cats.,Allergy affects pet-related and location recommendations.,constraints1.csv
+cc_115,I avoid all caffeine because it causes dangerous heart palpitations.,1,critical_constraint,5,User must avoid caffeine due to heart palpitations.,Medical constraint.,constraints2.csv
+tc_052,I'm on call this weekend.,1,temporary_context,2,User is on call this weekend.,Temporary work schedule.,temporary1.csv
+sp_159,I prefer cool colors in my home.,1,stable_preference_goal,4,User prefers cool color palettes.,Preference.,preference2.csv
+sp_184,I like learning about architecture.,1,stable_preference_goal,4,User enjoys architecture.,Interest.,preference2.csv
+tc_145,I'm visiting colleges with my son this weekend.,1,temporary_context,2,User is visiting colleges this weekend.,Temporary family activity.,temporary2.csv
+rc_129,I usually take Fridays as meeting-free workdays.,1,useful_recurring_context,3,User usually keeps Fridays meeting-free.,Recurring work pattern.,recurrent2.csv
+tc_180,I'm staying with coworkers during the conference.,1,temporary_context,2,User is staying with coworkers during a conference.,Temporary lodging.,temporary2.csv
+tc_011,My internet is down today.,1,temporary_context,2,User's internet is down today.,Temporary situation.,temporary1.csv
+tc_124,I'm filling out graduate school applications this month.,1,temporary_context,2,User is completing graduate school applications this month.,Temporary application process.,temporary2.csv
+rc_019,I tutor students every Monday evening.,1,useful_recurring_context,3,User tutors students every Monday evening.,Recurring commitment.,recurrent1.csv
+tc_069,I'm using crutches for the next month.,1,temporary_context,2,User is using crutches for the next month.,Temporary medical context.,temporary1.csv
+tc_148,I'm taking a watercolor class this summer.,1,temporary_context,2,User is taking a watercolor class this summer.,Seasonal activity.,temporary2.csv
+sp_056,I'm trying to read one book every month.,1,stable_preference_goal,4,User's goal is to read one book each month.,Stable long-term goal or aspiration.,preference1.csv
+cc_047,I can't spend more than $20 on dinner right now.,1,critical_constraint,5,User cannot spend more than $20 on dinner.,Budget constraint should guide immediate food recommendations.,constraints1.csv
+rc_137,I meet my writing group twice a month.,1,useful_recurring_context,3,User meets with their writing group twice a month.,Recurring commitment.,recurrent2.csv
+dns_093,I just watched a cooking video.,0,do_not_store,1,,Completed activity.,nostore1.csv
+tc_042,I'm working from the office all week.,1,temporary_context,2,User is working from the office this week.,Temporary schedule.,temporary1.csv
+tc_200,I'm attending a reunion next weekend.,1,temporary_context,2,User is attending a reunion next weekend.,Upcoming event.,temporary2.csv
+tc_178,I'm helping with wedding decorations this weekend.,1,temporary_context,2,User is helping with wedding decorations this weekend.,Temporary commitment.,temporary2.csv
+rc_120,I normally meet my advisor once a month.,1,useful_recurring_context,3,User meets with their advisor monthly.,Recurring commitment.,recurrent2.csv
+rc_076,I normally mow the lawn on Saturdays.,1,useful_recurring_context,3,User mows the lawn on Saturdays.,Recurring chore.,recurrent1.csv
+dns_002,That movie was pretty funny.,0,do_not_store,1,,One-off reaction.,nostore1.csv
+cc_044,I can't schedule anything on Tuesdays because that's when I have dialysis.,1,critical_constraint,5,User cannot schedule anything on Tuesdays because of dialysis.,Medical scheduling constraint is critical.,constraints1.csv
+sp_080,I love autumn more than any other season.,1,stable_preference_goal,4,User's favorite season is autumn.,Stable preference likely useful in future conversations.,preference1.csv
+sp_146,I'm hoping to hike the Appalachian Trail.,1,stable_preference_goal,4,User's goal is to hike the Appalachian Trail.,Goal.,preference2.csv
+cc_119,I cannot eat sesame oil either—it's part of my allergy.,1,critical_constraint,5,User must avoid sesame oil due to allergy.,Food allergy.,constraints2.csv
+tc_104,My kitchen is being remodeled right now.,1,temporary_context,2,User's kitchen is currently being remodeled.,Temporary home project.,temporary2.csv
+sp_061,I'm trying to meditate every day.,1,stable_preference_goal,4,User's goal is to meditate daily.,Stable long-term goal or aspiration.,preference1.csv
+dns_134,The park was beautiful.,0,do_not_store,1,,Passing observation.,nostore2.csv
+cc_038,I can't travel internationally because I don't currently have a passport.,1,critical_constraint,5,User cannot travel internationally because they do not currently have a passport.,Hard travel constraint affects trip planning.,constraints1.csv
+cc_130,I need an aisle seat because I have circulation issues.,1,critical_constraint,5,User requires aisle seats due to circulation issues.,Travel.,constraints2.csv
+cc_018,I'm vegan and don't make exceptions for animal products.,1,critical_constraint,5,User is strictly vegan and avoids all animal products.,Strict dietary constraint affects future food recommendations.,constraints1.csv
+dns_107,That was a long phone call.,0,do_not_store,1,,Momentary comment.,nostore2.csv
+dns_198,I just sat by the fireplace.,0,do_not_store,1,,Current activity.,nostore2.csv
+cc_015,I have a sesame allergy.,1,critical_constraint,5,User has a sesame allergy.,Allergy must be remembered for safe food suggestions.,constraints1.csv
+sp_047,I enjoy learning languages.,1,stable_preference_goal,4,User enjoys language learning.,Stable hobby or interest.,preference1.csv
+tc_070,I'm filling in for a coworker this week.,1,temporary_context,2,User is filling in for a coworker this week.,Temporary work responsibility.,temporary1.csv
+tc_116,I'm driving my roommate to work until their car is fixed.,1,temporary_context,2,User is driving their roommate to work temporarily.,Temporary responsibility.,temporary2.csv
+dns_116,I got here a little early.,0,do_not_store,1,,Current status.,nostore2.csv
+cc_017,"I keep kosher, so restaurant recommendations need to account for that.",1,critical_constraint,5,User keeps kosher.,Religious dietary constraint should be remembered.,constraints1.csv
+sp_049,I enjoy volunteering at animal shelters.,1,stable_preference_goal,4,User enjoys volunteering at animal shelters.,Stable hobby or interest.,preference1.csv
+rc_062,I wash my car once a month.,1,useful_recurring_context,3,User washes their car monthly.,Recurring task.,recurrent1.csv
+sp_054,I'm working toward a promotion at work.,1,stable_preference_goal,4,User's goal is to earn a promotion.,Stable long-term goal or aspiration.,preference1.csv
+cc_007,"I'm severely allergic to bees, so outdoor plans near flowers or hives are risky for me.",1,critical_constraint,5,User is severely allergic to bees and should avoid risky outdoor exposure.,Allergy impacts safety in activity recommendations.,constraints1.csv
+sp_001,I love spicy Thai food.,1,stable_preference_goal,4,User likes spicy Thai food.,Stable food or drink preference.,preference1.csv
+tc_024,I'm babysitting my nephew tonight.,1,temporary_context,2,User is babysitting tonight.,Temporary commitment.,temporary1.csv
+rc_117,I go swimming every Saturday morning.,1,useful_recurring_context,3,User swims every Saturday morning.,Recurring exercise.,recurrent2.csv
+rc_034,I usually run long distances on Saturdays.,1,useful_recurring_context,3,User usually does long runs on Saturdays.,Recurring exercise pattern.,recurrent1.csv
+cc_113,I'm legally blind and need navigation instructions that work with screen readers.,1,critical_constraint,5,User is legally blind and uses screen readers.,Accessibility.,constraints2.csv
+dns_157,The coffee spilled in my bag.,0,do_not_store,1,,Temporary mishap.,nostore2.csv
+dns_201,I finally got a parking spot.,0,do_not_store,1,,Resolved temporary situation.,nostore2.csv
+cc_192,I can't do amusement park rides.,1,critical_constraint,5,User cannot do amusement park rides.,Safety.,constraints2.csv
+rc_001,I usually work from home on Fridays.,1,useful_recurring_context,3,User usually works from home on Fridays.,Recurring work schedule.,recurrent1.csv
+cc_039,I can't fly because of a medical restriction.,1,critical_constraint,5,User cannot fly because of a medical restriction.,Medical travel constraint should be remembered.,constraints1.csv
+cc_026,I have severe social anxiety and need low-crowd options when possible.,1,critical_constraint,5,User has severe social anxiety and prefers low-crowd options.,Mental health constraint affects activity recommendations.,constraints1.csv
+cc_107,I can't use scented candles because they trigger my migraines.,1,critical_constraint,5,User cannot use scented candles because they trigger migraines.,Health trigger.,constraints2.csv
+rc_168,I normally go to the recycling center every other month.,1,useful_recurring_context,3,User goes to the recycling center every other month.,Recurring chore.,recurrent2.csv
+sp_113,I usually exercise before work.,1,stable_preference_goal,4,User prefers exercising before work.,Lifestyle.,preference2.csv
+rc_126,I always call my doctor before renewing prescriptions.,1,useful_recurring_context,3,User calls their doctor before renewing prescriptions.,Recurring medical routine.,recurrent2.csv
+dns_049,I just watered the plants.,0,do_not_store,1,,Completed task.,nostore1.csv
+dns_149,The checkout was easy.,0,do_not_store,1,,Passing observation.,nostore2.csv
