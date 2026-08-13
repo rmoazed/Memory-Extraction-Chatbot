@@ -35,4 +35,4 @@ PINECONE_API_KEY = st.secrets["PINECONE_API_KEY"] if "PINECONE_API_KEY" in st.se
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 pc = Pinecone(api_key=PINECONE_API_KEY)
-index = pc.Index("matt")
+index = pc.Index("your_index_name")
